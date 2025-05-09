@@ -35,7 +35,10 @@
 
 ### 📌 Highlight Projects
 
-- ⚽ **FutStats** – A mobile app to track personal football match stats (React Native + Firebase)
+- ⚽ **FutStats** – A web app to track personal football match stats (Angular frontend, NestJS backend for authentication and CRUD, SQLite database for storage)
+  - (https://github.com/AlejoLiendo/futstats-auth)
+  - (https://github.com/AlejoLiendo/futstats-crud)
+  - (https://github.com/AlejoLiendo/futstats-front)
 - 🛒 **Product Catalog** – Angular + Bootstrap frontend with backend integration
   
 ---
