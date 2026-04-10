@@ -25,21 +25,22 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
 ---
 
 ### 📌 Highlight Projects
 
-- ⚽ **FutStats** – A web app to track personal football match stats (Angular frontend, NestJS backend for authentication and CRUD, SQLite database for storage)
-  - (https://github.com/AlejoLiendo/futstats-auth)
-  - (https://github.com/AlejoLiendo/futstats-crud)
-  - (https://github.com/AlejoLiendo/futstats-front)
-- 🛒 **Product Catalog** – Angular + Bootstrap frontend with backend integration
+* ⚽ **FutStats** – Web app to track personal football match stats (Angular frontend, NestJS backend for authentication and CRUD, SQLite database for storage)
+  + [futstats-auth](https://github.com/AlejoLiendo/futstats-auth)
+  + [futstats-crud](https://github.com/AlejoLiendo/futstats-crud)
+  + [futstats-front](https://github.com/AlejoLiendo/futstats-front)
+
+* 🗓️ **Habit Tracker** – App to register personal habits with optional description and frequency. Features a streak system to track consistency over time.
+  + [habit-tracker-backend](https://github.com/AlejoLiendo/habit-tracker-backend)
+  + [habit-tracker-front](https://github.com/AlejoLiendo/habit-tracker-front)
   
 ---
 
